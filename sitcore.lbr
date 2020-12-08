@@ -338,6 +338,7 @@ http://www-eu2.semiconductors.com&lt;p&gt;
 <pin name="PB5/SPI3_MOSI" x="40.64" y="35.56" length="middle" rot="R180"/>
 <pin name="PB8/I2C1_SCL/PWM_16.1" x="40.64" y="38.1" length="middle" rot="R180"/>
 <pin name="PB9/I2C1_SDA/PWM_17.1" x="40.64" y="40.64" length="middle" rot="R180"/>
+<text x="-38.1" y="-45.72" size="1.778" layer="95" align="center-left">SCM20100E</text>
 </symbol>
 </symbols>
 <devicesets>
